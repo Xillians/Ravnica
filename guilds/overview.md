@@ -28,7 +28,7 @@
 [imgBoros]: ../resources/emblems/boros.png
 [imgDimir]: ../resources/emblems/dimir.png
 [imgGolgari]: ../resources/emblems/golgari.png
-[imgGruul]: ../resources/emblems/Gruul.png
+[imgGruul]: ../resources/emblems/gruul.png
 [imgIzzet]: ../resources/emblems/izzet.png
 [imgOrzhov]: ../resources/emblems/orzhov.png
 [imgRakdos]: ../resources/emblems/rakdos.png
