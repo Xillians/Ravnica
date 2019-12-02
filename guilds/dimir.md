@@ -1,9 +1,11 @@
 # House Dimir
+
 ![Guild member](../resources/images/dimir.jpg)
 
-Lorem ipsum.....
+Nulla do exercitation consequat sunt amet.
 
 ## Dimir characters
+
 **Alignment**: Usually X, often Y
 
 **Sugested Races**: races
@@ -11,35 +13,39 @@ Lorem ipsum.....
 **Suggested Classes**: classes
 
 You might enjoy a character who belongs in the Dimir if one or more of the following statements are true:
-* lorem ipsum...
-* lorem ipsum...
-* lorem ipsum...
-* lorem ipsum...
+
+* Cupidatat adipisicing qui aliqua veniam sunt ipsum occaecat nisi est.
+* Nulla dolor sunt nulla nisi consectetur sint nostrud.
+* Pariatur sint incididunt duis magna sint esse.
+* Cupidatat Lorem quis consectetur irure ullamco veniam officia non nostrud ex ullamco eiusmod deserunt sit.
 
 ## Character background: Dimir operative
 
-#### How do I fit in?
-lorem ipsum.....
+### How do I fit in
 
+Id labore dolor consequat ullamco aliqua incididunt minim incididunt non labore.
 
-**Skill proficiencies**: 
+**Skill proficiencies:**
+
 * Deception
 * Stealth
 
-**Tool proficiencies**:
+**Tool proficiencies:**
 Disguise kit
 
-**Languages**: 
+**Languages:**:
 One of your choice
 
-**Equipment**: 
+**Equipment:**
+
 * A dimir insignia
 * three small knives
 * set of dark-colored common clothes
 * starting equipment of the secondary background
 
-### Feature:
-**Fale identity**
+### Feature
+
+**False identity:**
 
 You have more than one identity. The one you wear most of the time makes you appear to be a member of a guild other than House Dimir. You have documentation, established acquaintances, and disguises that allow you to assume that persona and fit into the secondary guild. Whenever you choose, you can drop this identity and blend into the guildless masses of the city.
 
@@ -57,73 +63,74 @@ Consider why you're embedded in the secondary guild. Create a story with your DM
 
 ### Dimir guild spells
 
-| **Spell level**   | **Spells**
-| -                 | -
-| cantrip           | 
-| 1st               | 
-| 2nd               | 
-| 3rd               | 
-| 4th               | 
-| 5th               | 
+| **Spell level** | **Spells** |
+| --------------- | ---------- |
+| cantrip         |
+| 1st             |
+| 2nd             |
+| 3rd             |
+| 4th             |
+| 5th             |
 
 ### Suggested characteristics
 
 #### Personality traits
 
-| **d8** | **Trait**
-| -      | -
-| 1      | 
-| 2      | 
-| 3      | 
-| 4      | 
-| 5      | 
-| 6      | 
-| 7      | 
-| 8      | 
+| **d8** | **Trait** |
+| ------ | --------- |
+| 1      |
+| 2      |
+| 3      |
+| 4      |
+| 5      |
+| 6      |
+| 7      |
+| 8      |
 
 #### Ideals
 
-| **d6** | **Ideal**
-| -      | -
-| 1      | 
-| 2      | 
-| 3      | 
-| 4      | 
-| 5      | 
-| 6      | 
+| **d6** | **Ideal** |
+| ------ | --------- |
+| 1      |
+| 2      |
+| 3      |
+| 4      |
+| 5      |
+| 6      |
 
 #### Bonds
 
-| **d6** | **Bond**
-| -      | -
-| 1      | 
-| 2      | 
-| 3      | 
-| 4      | 
-| 5      | 
-| 6      | 
+| **d6** | **Bond** |
+| ------ | -------- |
+| 1      |
+| 2      |
+| 3      |
+| 4      |
+| 5      |
+| 6      |
 
 #### Flaws
 
-| **d6** | **Flaw**
-| -      | -
-| 1      | 
-| 2      | 
-| 3      | 
-| 4      | 
-| 5      | 
-| 6      | 
+| **d6** | **Flaw** |
+| ------ | -------- |
+| 1      |
+| 2      |
+| 3      |
+| 4      |
+| 5      |
+| 6      |
 
 ### Dimir contacts
-As an agent of House Dimir working undercover, you have limited contacts within your guild. Your relationships with your secondary guild, in the guise of your false identity, are usually more extensive. 
+
+As an agent of House Dimir working undercover, you have limited contacts within your guild. Your relationships with your secondary guild, in the guise of your false identity, are usually more extensive.
 
 Roll once on the Dimir contacts table, giving you an ally who serves as your contact in Dimir. Then roll twice on the table for your secondary guild. The first roll gives you an ally there, and the second roll gives you a rival.
 
-| **d8** | **Contact**
-| -      | -
-| 1      | 
-| 2      | 
-| 3      | 
-| 4      | 
-| 5      | 
-| 6      | 
+| **d8** | **Contact** |
+| ------ | ----------- |
+| 1      |
+| 2      |
+| 3      |
+| 4      |
+| 5      |
+| 6      |

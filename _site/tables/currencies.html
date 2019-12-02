@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=640">
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=6886ac26c3cc48953dd2a404d51767da9a5e25b1" media="screen">
+    <link rel="stylesheet" href="/assets/css/style.css?v=7522e8564b20408644068418fddc9c987ec44da9" media="screen">
     <link rel="stylesheet" href="/assets/css/mobile.css" media="handheld, only screen and (max-device-width:640px)">
     <link rel="stylesheet" href="/assets/css/non-screen.css" media="handheld, only screen and (max-device-width:640px)">
 
@@ -62,19 +62,15 @@
         <h1 id="currency-zibs--zinos-ravnica-currency">Currency: Zibs &amp; Zinos; Ravnica currency</h1>
 
 <table>
+  <thead>
+    <tr>
+      <th>value</th>
+      <th>Azorius</th>
+      <th>Boros</th>
+      <th>Orzhov</th>
+    </tr>
+  </thead>
   <tbody>
-    <tr>
-      <td>value</td>
-      <td>Azorius</td>
-      <td>Boros</td>
-      <td>Orzhov</td>
-    </tr>
-    <tr>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>Orzhov</td>
-    </tr>
     <tr>
       <td>1cp</td>
       <td>Copper zib</td>
@@ -119,6 +115,27 @@
     </tr>
   </tbody>
 </table>
+
+<h2 id="currency-calculator">Currency calculator</h2>
+
+<script src="../js/currency.js"></script>
+
+<div id="converter">
+    <div id="convertToZib">
+        <input type="text" id="cp" placeholder="cp" /><br />
+        <input type="text" id="sp" placeholder="sp" /><br />
+        <input type="text" id="ep" placeholder="ep" /><br />
+        <input type="text" id="gp" placeholder="gp" /><br />
+        <input type="text" id="pp" placeholder="pp" /><br />
+        <button onclick="convertToZib()">Convert to Zibs</button>
+    </div>
+    <div id="convertFromZib">
+        <input type="text" id="zib" placeholder="zibs" /><br />
+        <input type="text" id="zino" placeholder="zinos" /><br />
+        <button onclick="convertFromZib()">Convert from Zibs</button>
+    </div>
+    <p id="result"></p>
+</div>
 
       </section>
 
