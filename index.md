@@ -8,8 +8,8 @@
 | [The guilds][guilds]
 | [Races]
 
-[calendar]: <./calendar/>
-[conveniences]: <./conveniences/index>
-[currencies]: <./currencies/>
-[guilds]: <./guilds/index>
-[Races]: <./races/index>
+[calendar]: <./calendar>
+[conveniences]: <./conveniences>
+[currencies]: <./currencies>
+[guilds]: <./guilds>
+[Races]: <./races>
