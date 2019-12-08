@@ -2,5 +2,7 @@
 .env
 
 #node modules
-node_modules/
+node_modules
 
+# Site build
+_site
