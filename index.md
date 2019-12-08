@@ -11,5 +11,5 @@
 [calendar]: <./tables/calendar>
 [conveniences]: <./tables/conveniences>
 [currencies]: <./tables/currencies>
-[guilds]: <./guilds/overview>
-[Races]: <./races/overview>
+[guilds]: <./guilds>
+[Races]: <./races>

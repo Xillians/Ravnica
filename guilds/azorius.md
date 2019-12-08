@@ -2,9 +2,10 @@
 
 ![emblem](../resources/images/azorius/emblem.png)
 
-Lorem ipsum.....
+Non reprehenderit sint duis culpa duis culpa pariatur ea est id ea eiusmod
+deserunt. Aliqua Lorem consectetur Lorem adipisicing tempor amet.
 
-## Azorius characters'
+## Azorius characters
 
 **Alignment**: Usually lawful, often neutral
 
