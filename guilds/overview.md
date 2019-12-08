@@ -24,13 +24,13 @@
 [selesnya]: <./selesnya>
 [simic]: <./simic>
 
-[imgAzorius]: ../resources/emblems/azorius.png
-[imgBoros]: ../resources/emblems/boros.png
-[imgDimir]: ../resources/emblems/dimir.png
-[imgGolgari]: ../resources/emblems/golgari.png
-[imgGruul]: ../resources/emblems/gruul.png
-[imgIzzet]: ../resources/emblems/izzet.png
-[imgOrzhov]: ../resources/emblems/orzhov.png
-[imgRakdos]: ../resources/emblems/rakdos.png
-[imgSelesnya]: ../resources/emblems/selesnya.png
-[imgSimic]: ../resources/emblems/simic.png
+[imgAzorius]: ../resources/images/azorius/icon.png
+[imgBoros]: ../resources/images/boros/icon.png
+[imgDimir]: ../resources/images/dimir/icon.png
+[imgGolgari]: ../resources/images/golgari/icon.png
+[imgGruul]: ../resources/images/gruul/icon.png
+[imgIzzet]: ../resources/images/izzet/icon.png
+[imgOrzhov]: ../resources/images/orzhov/icon.png
+[imgRakdos]: ../resources/images/rakdos/icon.png
+[imgSelesnya]: ../resources/images/selesnya/icon.png
+[imgSimic]: ../resources/images/simic/icon.png

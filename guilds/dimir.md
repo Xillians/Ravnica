@@ -1,6 +1,6 @@
 # House Dimir
 
-![Guild member](../resources/images/dimir.jpg)
+![emblem](../resources/images/dimir/emblem.png)
 
 Nulla do exercitation consequat sunt amet.
 
@@ -20,6 +20,8 @@ You might enjoy a character who belongs in the Dimir if one or more of the follo
 * Cupidatat Lorem quis consectetur irure ullamco veniam officia non nostrud ex ullamco eiusmod deserunt sit.
 
 ## Character background: Dimir operative
+
+![guildMember](../resources/images/dimir/member.jpg)
 
 ### How do I fit in
 
@@ -122,9 +124,13 @@ Consider why you're embedded in the secondary guild. Create a story with your DM
 
 ### Dimir contacts
 
-As an agent of House Dimir working undercover, you have limited contacts within your guild. Your relationships with your secondary guild, in the guise of your false identity, are usually more extensive.
+As an agent of House Dimir working undercover, you have limited contacts
+within your guild. Your relationships with your secondary guild, in the guise
+of your false identity, are usually more extensive.
 
-Roll once on the Dimir contacts table, giving you an ally who serves as your contact in Dimir. Then roll twice on the table for your secondary guild. The first roll gives you an ally there, and the second roll gives you a rival.
+Roll once on the Dimir contacts table, giving you an ally who serves as your
+contact in Dimir. Then roll twice on the table for your secondary guild.
+The first roll gives you an ally there, and the second roll gives you a rival.
 
 | **d8** | **Contact** |
 | ------ | ----------- |

@@ -1,6 +1,6 @@
 # Boros Legion
 
-![Guild member](../resources/images/boros.jpg)
+![emblem](../resources/images/boros/emblem.png)
 
 Lorem ipsum.....
 
@@ -12,7 +12,8 @@ Lorem ipsum.....
 
 **Suggested Classes**: classes
 
-You might enjoy a character who belongs in the Boros if one or more of the following statements are true:
+You might enjoy a character who belongs in the Boros if one or more of the
+following statements are true:
 
 * Proident sunt consequat consequat nulla.
 * Quis dolor adipisicing qui deserunt sunt duis sunt cillum aliquip est veniam duis.
@@ -20,6 +21,8 @@ You might enjoy a character who belongs in the Boros if one or more of the follo
 * Cillum esse sit officia officia ut non.
 
 ## Character background: Boros Legionnaire
+
+![guildMember](../resources/images/boros/member.jpg)
 
 ### How do I fit in
 
