@@ -86,7 +86,7 @@ Two of your choice
 
 | **d6** | **Bond** |
 | ------ | -------- |
-| 1      |
+| 1      | **Guild.** My guild is all that really matters
 | 2      |
 | 3      |
 | 4      |

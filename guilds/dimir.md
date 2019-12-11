@@ -93,7 +93,7 @@ Consider why you're embedded in the secondary guild. Create a story with your DM
 
 | **d6** | **Ideal** |
 | ------ | --------- |
-| 1      |
+| 1      | **Guild.** My guild is all that really matters
 | 2      |
 | 3      |
 | 4      |
