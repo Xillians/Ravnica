@@ -1,6 +1,8 @@
 # Guilds - Overview
 
-| Symbol             | The 10 guilds                                                                                                                                                   |
+## The 10 guilds
+
+| Symbol             | Guild
 | ------------------ | -
 | <br>![imgAzorius]  | **Azorius senate**  <br> The lawmakers, arresters, and judges of the city. Some aspire to protect the city through laws, some aspire to change the rules to fit their view of order. <br> [read more][azorius]
 | <br>![imgBoros]    | **Boros Legion**  <br> As servants of justice under the command of angels, the boros seek to protect Ravnica's citizens from the riots of Gruul or devastation of Rakdos, and the oppression of Azorius or schemes of dark organizations alike. <br> [read more][boros]
@@ -12,6 +14,13 @@
 | <br>![imgRakdos]   | **Cult of Rakdos**  <br> Cultists of the ancient demon lord Rakdos. The Rakdos are the jesters of Ravnica's culture, using satire and perfomance to mock the grand and encourage the weak. Their performances often have themes of wrought iron, fires, and danger. <br>[read more][rakdos]
 | <br>![imgSelesnya] | **Selesnya conclave**  <br> Under the guidance of Trostani, a fusion of three dryads and Mat'Selesnya, a manefistation of the soul of the world, the Selesnya conclave seek to bring nature and city into balance, bringing harmony between the two. <br>[read more][selesnya]
 | <br>![imgSimic]    | **Simic combibne**  <br> Striving to create a harmonious future where all kind are perfectly adapted to the world, the scientists of the Simic use their knowledge of magic and nature in an attempt to create the mix that would fit their perfect world. <br>[read more][simic]
+
+## Questionnaire: Where do I belong
+
+This questionnaire can be a useful tool as a guideline to think what's
+important to your character, and where they would fit in.
+
+![Questionnaire][imgChart]
 
 [azorius]: <./azorius>
 [boros]: <./boros>
@@ -34,3 +43,4 @@
 [imgRakdos]: ../resources/images/rakdos/icon.png
 [imgSelesnya]: ../resources/images/selesnya/icon.png
 [imgSimic]: ../resources/images/simic/icon.png
+[imgChart]: <../resources/images/characterQuestionnaire.png>

@@ -2,7 +2,8 @@
 
 ![emblem](../resources/images/golgari/emblem.png)
 
-Lorem ipsum.....
+Non reprehenderit sint duis culpa duis culpa pariatur ea est id ea eiusmod
+deserunt. Aliqua Lorem consectetur Lorem adipisicing tempor amet.
 
 ## Golgari characters
 
@@ -104,7 +105,9 @@ Two of your choice
 | 5      |
 | 6      |
 
-### Golgari contacts
+### Contacts
+
+#### Golgari contacts
 
 | **d6** | **Contact** |
 | ------ | ----------- |
@@ -115,7 +118,7 @@ Two of your choice
 | 5      |
 | 6      |
 
-### Non-Golgari contacts
+#### Non-Golgari contacts
 
 | **d10** | **Contact** |
 | ------- | ----------- |
