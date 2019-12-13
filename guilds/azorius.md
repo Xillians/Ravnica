@@ -24,12 +24,6 @@ of the following statements are true:
 
 ![guildMember](../resources/images/azorius/member.jpg)
 
-### How do I fit in
-
-Adipisicing officia voluptate irure minim ipsum minim velit. Esse velit do
-nostrud non nulla nisi laborum anim excepteur elit.
-Ad elit ipsum in voluptate. Reprehenderit eu culpa nisi nisi occaecat commodo.
-
 **Skill proficiencies**:
 
 * insight
@@ -44,6 +38,12 @@ Two of your choice
 * a scroll contining the text of a law important to you
 * a bottle of blue ink, a pen, a set of fine clothes
 * a belt pouch containing 10 gp (Azorius-minted 1-zino coin)
+
+### How do I fit in
+
+Adipisicing officia voluptate irure minim ipsum minim velit. Esse velit do
+nostrud non nulla nisi laborum anim excepteur elit.
+Ad elit ipsum in voluptate. Reprehenderit eu culpa nisi nisi occaecat commodo.
 
 ### Feature: Legal Authority
 
